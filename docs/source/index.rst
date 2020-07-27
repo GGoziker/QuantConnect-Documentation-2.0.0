@@ -5,7 +5,7 @@ Documentation Index
 Welcome!
 ^^^^^^^^
 
-This is the root page for this documentation.
+This is the root page for this documentation!
 
 Contents
 ^^^^^^^^^
