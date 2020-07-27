@@ -1,0 +1,13 @@
+******************
+Documentation Home
+******************
+
+Contents
+^^^^^^^^^
+
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   UsingQC/index.rst
+   WritingAlgorithms/index.rst
