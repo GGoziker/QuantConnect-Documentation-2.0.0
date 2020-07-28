@@ -1,4 +1,0 @@
-License
-=======
-
-Put license here
