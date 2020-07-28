@@ -4,8 +4,7 @@ Writing Algorithms
 
 Home page for documentation supersection "Writing Algorithms".
 
-Contents
-^^^^^^^^
+**Contents**
 
 .. toctree::
    :maxdepth: 1

@@ -4,8 +4,7 @@ Using QuantConnect
 
 Home for the documentation supersection "Using QuantConnect"
 
-Contents
-^^^^^^^^
+**Contents**
 
 .. toctree::
    :maxdepth: 2
@@ -13,4 +12,4 @@ Contents
    Getting_Started/Overview.rst
    Getting_Started/About_QC.rst
 
-   
+
