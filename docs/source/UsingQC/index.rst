@@ -8,6 +8,9 @@ Contents
 ^^^^^^^^
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+
+   Getting_Started/Overview.rst
+   Getting_Started/About_QC.rst
 
    

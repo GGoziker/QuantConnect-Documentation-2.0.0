@@ -1,13 +1,14 @@
-******************
-Documentation Home
-******************
+*******************
+Documentation Index
+*******************
 
-Contents
-^^^^^^^^^
+Welcome!
+^^^^^^^^
+
+This is the root page for this documentation!
 
 .. toctree::
-   :titlesonly:
-   :maxdepth: 1
+   :hidden:
 
    UsingQC/index.rst
    WritingAlgorithms/index.rst
