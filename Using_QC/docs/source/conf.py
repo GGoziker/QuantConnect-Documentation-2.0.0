@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Writing_Algorithms'
+project = 'Using_QC'
 copyright = '2020, GahlGoziker'
 author = 'GahlGoziker'
 
@@ -113,7 +113,7 @@ html_sidebars = { '**': ['globaltoc.html', 'searchbox.html'] }
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Writing_Algorithmsdoc'
+htmlhelp_basename = 'Using_QCdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -140,7 +140,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Writing_Algorithms.tex', 'Writing\\_Algorithms Documentation',
+    (master_doc, 'Using_QC.tex', 'Writing\\_Algorithms Documentation',
      'GahlGoziker', 'manual'),
 ]
 
@@ -150,7 +150,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'writing_algorithms', 'Writing_Algorithms Documentation',
+    (master_doc, 'Using_QC', 'Using_QC Documentation',
      [author], 1)
 ]
 
@@ -161,8 +161,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Writing_Algorithms', 'Writing_Algorithms Documentation',
-     author, 'Writing_Algorithms', 'One line description of project.',
+    (master_doc, 'Using_QC', 'Using_QC Documentation',
+     author, 'Using_QC', 'One line description of project.',
      'Miscellaneous'),
 ]
 
