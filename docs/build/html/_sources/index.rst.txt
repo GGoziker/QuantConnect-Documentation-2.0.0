@@ -1,3 +1,5 @@
+.. _using-quantconnect:
+
 ******************
 Using QuantConnect
 ******************

@@ -1,3 +1,5 @@
+.. _using-quantconnect:
+
 ******************
 Using QuantConnect
 ******************
@@ -7,17 +9,14 @@ Home for the documentation supersection "Using QuantConnect"
 Getting Started
 ---------------
 
-* **Getting Started**
-
-
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Getting started
 
-   1_Getting_Started/Overview.rst
-   1_Getting_Started/About_QC.rst
-   1_Getting_Started/Breakdown_of_Platform.rst
+   Getting_Started/Overview.rst
+   Getting_Started/About_QC.rst
+   Getting_Started/Breakdown_of_Platform.rst
 
 User Guide
 ----------
@@ -27,11 +26,11 @@ User Guide
    :hidden:
    :caption: User Guide
 
-   2_User_Guide/1_Using_the_Terminal/1_Overview.rst
-   2_User_Guide/1_Using_the_Terminal/2_Using_the_IDE.rst
-   2_User_Guide/1_Using_the_Terminal/3_Running_backtests.rst
-   2_User_Guide/2_Alpha_Streams/1_Overview.rst
-   2_User_Guide/2_Alpha_Streams/2_Creating_an_Alpha.rst
-   2_User_Guide/2_Alpha_Streams/3_Submitting_an_Alpha
+   User_Guide/Using_the_Terminal/Overview.rst
+   User_Guide/Using_the_Terminal/Using_the_IDE.rst
+   User_Guide/Using_the_Terminal/Running_backtests.rst
+   User_Guide/Alpha_Streams/Overview.rst
+   User_Guide/Alpha_Streams/Creating_an_Alpha.rst
+   User_Guide/Alpha_Streams/Submitting_an_Alpha
 
 
