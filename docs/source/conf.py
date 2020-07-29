@@ -19,7 +19,7 @@ sys.path.append(os.path.abspath('sphinxext'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'intersphinx-practice'
+project = 'Using-QC'
 copyright = '2020, gg'
 author = 'Gahl Goziker'
 master_doc = 'index'
